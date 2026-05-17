@@ -1,7 +1,7 @@
 # Python environment
 __pycache__/
 *.pyc
-.venv/
+venv/
 env/
 
 # Data and Databases (CRITICAL: Do not leak client data)
