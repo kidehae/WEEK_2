@@ -1,0 +1,15 @@
+# Python environment
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Data and Databases (CRITICAL: Do not leak client data)
+data/
+*.csv
+*.db
+*.sql
+
+# IDE settings
+.vscode/
+.idea/
